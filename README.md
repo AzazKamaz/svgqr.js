@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="svgqr.svg" width="290" height="290"/>
+</p>
+
 # SvgQr.js
 QR code renderer into SVG with rounded edges
 
