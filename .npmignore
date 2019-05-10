@@ -1,0 +1,18 @@
+# GitHub assets
+assets
+
+# WebStorm
+.idea
+
+# Dependency directories
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Package version locks
+package-lock.json
+yarn.lock
