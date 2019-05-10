@@ -28,7 +28,6 @@ let svg = SvgQr('Hello, World!', {
 ```
 
 # API Reference
-
 ### `SvgQr(data, opts)` - encode and render QR code into SVG string
 - `data` — data to encode
 - `opts` — object with options fields:
@@ -40,6 +39,10 @@ let svg = SvgQr('Hello, World!', {
     `mode` | `'Byte'` | Data encoding mode, `'Numeric'` \| `'Alphanumeric'` \| `'Byte'` \| `'Kanji'`
 
 # Notes
-
 QR Code rendered into 5 overlaying svg paths, I am going to optimize them into solid paths.
 New technique will be easier to render and will have more customizing options.
+
+# License
+MIT licensed
+
+Copyright (C) 2019 Aleksandr Krotov
