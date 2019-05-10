@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="svgqr.svg" width="290" height="290"/>
+  <img src="assets/svgqr.png" width="290" height="290"/>
 </p>
 
 # SvgQr.js
