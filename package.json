@@ -1,0 +1,31 @@
+{
+  "name": "svgqr.js",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "dependencies": {
+    "qrcode-generator": "^1.4.3"
+  },
+  "description": "QR code renderer into SVG with rounded edges",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AzazKamaz/svgqr.js.git"
+  },
+  "keywords": [
+    "SVG",
+    "QR",
+    "Encode"
+  ],
+  "author": "Aleksandr Krotov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AzazKamaz/svgqr.js/issues"
+  },
+  "homepage": "https://github.com/AzazKamaz/svgqr.js#readme"
+}
