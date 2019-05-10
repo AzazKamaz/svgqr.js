@@ -36,7 +36,8 @@ let svg = SvgQr('Hello, World!', {
     ---- | ------- | -----------
     `version` | `0` | QR code version, `0` (auto) \| from `1` to `40`
     `correction` | `'M'` | Error correction level, `'L'` (7%) \| `'M'` (15%) \| `'Q'` (25%) \| `'H'` (30%)
-    `mode` | `'Byte'` | Data encoding mode, `'Numeric'` \| `'Alphanumeric'` \| `'Byte'` \| `'Kanji'`
+    `mode` | `'Byte'` | Data encoding mode, `'Numeric'` \| `'Alphanumeric'` \| `'Byte'`
+    `encoding` | `'default'` | Text encoding, `'default'` (bytes) \| `'UTF-8'`
 
 # Notes
 QR Code rendered into 5 overlaying svg paths, I am going to optimize them into solid paths.
