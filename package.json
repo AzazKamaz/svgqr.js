@@ -1,6 +1,6 @@
 {
   "name": "svgqr.js",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "lib/index.js",
   "dependencies": {
     "qrcode-generator": "^1.4.3"
