@@ -43,9 +43,9 @@ let svg = SvgQr('Hello, World!', {
     `mode` | `'Byte'` | Data encoding mode, `'Numeric'` \| `'Alphanumeric'` \| `'Byte'`
     `encoding` | `'default'` | Text encoding, `'default'` (bytes) \| `'UTF-8'`
 
-# Notes
-QR Code rendered into 5 overlaying svg paths, I am going to optimize them into solid paths.
-New technique will be easier to render and will have more customizing options.
+# Todo
+- [x] Optimize 5 paths into 1
+- [ ] Add rounding option
 
 # License
 MIT licensed
