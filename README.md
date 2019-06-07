@@ -1,3 +1,7 @@
+[![npm version][npm-image]][npm-url]
+[![Downloads][downloads-image]][downloads-url]
+[![install size][install-size-image]][install-size-url]
+
 <p align="center">
   <img src="assets/svgqr.png" width="290" height="290"/>
 </p>
@@ -81,3 +85,10 @@ This code will produce:
 MIT licensed
 
 Copyright (C) 2019 Aleksandr Krotov
+
+[npm-image]: https://img.shields.io/npm/v/svgqr.js.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/svgqr.js
+[downloads-image]: http://img.shields.io/npm/dm/svgqr.js.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/svgqr.js
+[install-size-image]: https://flat.badgen.net/packagephobia/install/svgqr.js
+[install-size-url]: https://packagephobia.now.sh/result?p=svgqr.js
