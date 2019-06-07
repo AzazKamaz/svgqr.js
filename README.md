@@ -3,7 +3,7 @@
 [![install size][install-size-image]][install-size-url]
 
 <p align="center">
-  <img src="assets/svgqr.png" width="290" height="290"/>
+  <img src="assets/svgqr.png" width="300" height="300"/>
 </p>
 
 # SvgQr.js
