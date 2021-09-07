@@ -48,6 +48,7 @@ let svg = SvgQr('Hello, World!', {
     `encoding` | `'default'` | Text encoding, `'default'` (bytes) \| `'UTF-8'`
     `corners` | `'None'` | Corners style, `'None'` \| `'Rounded'` \| `'Skew'`
     `radius` | `1` | Radius for `'Rounded'` \| `'Skew'` styling
+    `padding` | `0` | Number of clear modules around QR
 
 # Advanced styling
 
